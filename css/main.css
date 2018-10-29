@@ -9,7 +9,8 @@
     width: 200px;
     float: left;
 	margin:20px;
-	text-align: middle;
-	vertical-align:center;
+	text-align: center;
+    vertical-align: middle;
 	text-transform: capitalize;
+	line-height:100px;
 }
