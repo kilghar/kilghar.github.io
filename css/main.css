@@ -1,7 +1,14 @@
+
+.main{
+	width:80%;
+}
 .vbox{
 	background-color: #ccc;
     height: 100px;
     width: 200px;
     float: left;
 	margin:20px;
+	text-align: middle;
+	vertical-align:center;
+	text-transform: capitalize;
 }
