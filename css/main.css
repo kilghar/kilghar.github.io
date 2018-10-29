@@ -1,8 +1,9 @@
 
 #main{
 	width:80%;
-	padding:20px;
+	padding:10px;
 	text-align: center;
+	margin:auto;
 }
 .vbox{
 	background-color: #ccc;
