@@ -27,6 +27,11 @@ body{
 	line-height:100px;
 	font-family: sans-serif;
 	border:2px solid #ffffff;
+	padding:5px;
+}
+
+.newsec{
+clear:both;
 }
 
 .vbox a{
