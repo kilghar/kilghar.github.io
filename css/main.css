@@ -26,4 +26,5 @@ body{
 	text-transform: capitalize;
 	line-height:100px;
 	font-family: sans-serif;
+	border:2px solid #ffffff;
 }
